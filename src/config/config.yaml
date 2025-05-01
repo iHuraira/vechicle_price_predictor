@@ -1,0 +1,4 @@
+mongodb:
+  uri: "mongodb+srv://{username}:{password}@cluster0.bhr48uh.mongodb.net/?retryWrites=true&w=majority"
+  database_name: "car_price_db"
+  collection_name: "cars"
